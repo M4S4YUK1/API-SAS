@@ -1,0 +1,67 @@
+[
+  {
+    "nome": "richard",
+    "rga": "2020.2020",
+    "senha": "123",
+    "dataNascimento": "14/07/2000",
+    "numero": "18996510414",
+    "email": "rmterayama.2000@gmail.com"
+  },
+  {
+    "nome": "Joao",
+    "rga": "2020.2505",
+    "senha": "321",
+    "dataNascimento": "14/07/2000",
+    "numero": "18996510414",
+    "email": "JOAO@gmail.com"
+    
+  },
+  {
+    "nome": "IGOR",
+    "rga": "2021.5050",
+    "senha": "154",
+    "dataNascimento": "14/07/2002",
+    "numero": "189965177845",
+    "email": "igor@gmail.com"
+  },
+  {
+    "nome": "leo",
+    "rga": "123456",
+    "senha": "521",
+    "dataNascimento": "14/07/2000",
+    "numero": "189955510414",
+    "email": "leo@gmail.com"
+  },
+  {
+    "nome": "maria",
+    "rga": "2020.536",
+    "senha": "551",
+    "dataNascimento": "19/01/2002",
+    "numero": "1899568475",
+    "email": "mariazinha@gmail.com"
+  },
+  {
+    "nome": "Joao",
+    "rga": "2020.2509",
+    "senha": "321",
+    "dataNascimento": "14/07/2000",
+    "numero": "18996510414",
+    "email": "JOAO@gmail.com"
+  },
+  {
+    "nome": "Kuesley",
+    "rga": "2028.1111",
+    "senha": "123456",
+    "dataNascimento": "14/07/1979",
+    "numero": "7988889988",
+    "email": "kuesley@gmail.com"
+  },
+  {
+    "nome": "Kuesley",
+    "rga": "2068.1111",
+    "senha": "123456",
+    "dataNascimento": "14/07/1979",
+    "numero": "7988889988",
+    "email": "kuesley@gmail.com"
+  }
+]
